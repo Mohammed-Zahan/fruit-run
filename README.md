@@ -9,7 +9,7 @@ A 2D platformer game built with **Godot Engine**, inspired by classic side-scrol
 - Classic arcade-style challenge
 
 ## 🛠️ Built With
-- [Godot Engine](https://godotengine.org/)
+- [Godot Engine](https://godotengine.org/)-using c++ coding
 - GDScript
 - Exported as APK for Android
 
